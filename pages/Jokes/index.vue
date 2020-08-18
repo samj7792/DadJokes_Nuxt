@@ -1,14 +1,12 @@
 <template>
-  <div>
-    <h2>Welcome to the best corny dad jokes app on the web</h2>
-  </div>
+  <div>Jokes</div>
 </template>
 
 <script>
 export default {
   head() {
     return {
-      title: "Welcome to Dad Jokes", // This changes the title on the tab
+      title: "Dad Jokes", // This changes the title on the tab
       meta: [
         {
           hid: "description", // unique identifier
