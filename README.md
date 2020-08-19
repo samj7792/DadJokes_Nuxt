@@ -1,5 +1,9 @@
 # dadjokes
 
+This is a website built using Nuxt.js which accesses an API of dad jokes.
+
+Deployed on Netlify at https://reverent-wilson-e2f38d.netlify.app/jokes
+
 ## Build Setup
 
 ```bash
